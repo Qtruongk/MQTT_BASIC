@@ -1,0 +1,14 @@
+# PlatformIO build artifacts
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VS Code configuration
+.vscode/
+
+# Build caches & binary files
+*.o
+*.elf
+*.bin
+*.hex
+*.d
